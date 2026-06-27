@@ -1,0 +1,1 @@
+{"bounded_contexts": [{"name": "Sales", "description": "Handles sales operations"}, {"name": "Marketing", "description": "Handles marketing operations"}]}
